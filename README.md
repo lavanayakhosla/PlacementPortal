@@ -27,12 +27,7 @@ python app.py
 
 App runs at `http://127.0.0.1:5000`.
 
-## Default Admin
-On first run, system auto-creates:
-- Email: `admin@placement.local`
-- Password: `admin123`
 
-Change this immediately after first login.
 
 ## Email/OTP Configuration
 Set SMTP env vars (example):
